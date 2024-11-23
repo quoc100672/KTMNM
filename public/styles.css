@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #da190b;
+  }
+  
+  .pending {
+    color: orange;
+  }
+  
+  .confirmed {
+    color: green;
+  }
+  
+  .cancelled {
+    color: red;
+  }
+  
